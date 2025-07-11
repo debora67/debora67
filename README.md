@@ -25,7 +25,7 @@ Atualmente curso Engenharia de Software na PUC Minas e sou entusiasta de front-e
 
 <div align="center">
   <a href="https://github.com/JamesCastagnetto/spotify-recently-played-readme">
-   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qml3dexr27lfrdrvl3jrmyfe2i" width="400" />
+   <img src="(https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/31qml3dexr27lfrdrvl3jrmyfe2i?si=1594b27416ae4774)" width="400" />
   </a>
 </div>
 
