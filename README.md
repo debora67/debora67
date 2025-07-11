@@ -21,4 +21,7 @@ Atualmente curso Engenharia de Software na PUC Minas e sou entusiasta de front-e
 ---
 [![](https://visitcount.itsvg.in/api?id=debora67&icon=9&color=10)](https://visitcount.itsvg.in)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qml3dexr27lfrdrvl3jrmyfe2i&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=1DB954&bar_color_cover=true)](https://open.spotify.com/user/31qml3dexr27lfrdrvl3jrmyfe2i)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
