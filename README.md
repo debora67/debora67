@@ -21,13 +21,10 @@ Atualmente curso Engenharia de Software na PUC Minas e sou entusiasta de front-e
 ---
 [![](https://visitcount.itsvg.in/api?id=debora67&icon=9&color=10)](https://visitcount.itsvg.in)
 
-### O que estou ouvindo?
+### 🎧 Onde me encontrar
 
-<div align="center">
-  <a href="https://github.com/JamesCastagnetto/spotify-recently-played-readme">
-   <img src="(https://spotify-recently-played-readme.vercel.app/api?user=31qml3dexr27lfrdrvl3jrmyfe2i)" width="400" />
-  </a>
-</div>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31qml3dexr27lfrdrvl3jrmyfe2i)
+
 
 
 
