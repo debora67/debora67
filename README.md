@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A9C2&height=180&section=header&text=Débora%20Sigaud%20💗&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-# Débora Sigaud 💗
+<div align="center">
 
 **Software Engineering student**  
 focused on **UX/UI, motion graphics, product design and front-end development**
