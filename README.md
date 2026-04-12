@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente curso Engenharia de Software na PUC Minas e sou entusiasta de front-end e animação.<br><br>Adoro tudo que envolve edição de vídeo, animação e design de interface. A tecnologia para mim é uma ferramenta para dar vida a ideias criativas.<br><br>Atualmente sou estagiária na Localiza&Co.<br><br>Fora do mundo do código, gosto muito de sair com meus amigos e ouvir muita música.
+Atualmente curso Engenharia de Software na PUC Minas e sou entusiasta de UX/UI design e animação.<br><br>Adoro tudo que envolve edição de vídeo, animação e design de interface. A tecnologia para mim é uma ferramenta para dar vida a ideias criativas.<br><br>Atualmente sou estagiária na Localiza&Co.<br><br>Fora do mundo do código, gosto muito de sair com meus amigos e ouvir muita música.
 
 
 ## 🌐 Socials:
