@@ -36,7 +36,21 @@ Tenho interesse em projetos visuais, interfaces bem pensadas e soluções que se
 ## tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,figma,git,github,vscode" />
+
+<!-- DEV -->
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,figma,git,github,vscode" />
+
+<br><br>
+
+<!-- DESIGN & MOTION -->
+<img src="https://img.shields.io/badge/after%20effects-f4a9c2?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+<img src="https://img.shields.io/badge/premiere-f7b2c9?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+<img src="https://img.shields.io/badge/photoshop-f9c6d6?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/illustrator-f8d7e4?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/capcut-f4a9c2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/canva-f7b2c9?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/affinity-f9c6d6?style=for-the-badge&logoColor=white" />
+
 </div>
 
 ---
@@ -57,7 +71,7 @@ Tenho interesse em projetos visuais, interfaces bem pensadas e soluções que se
 ## github stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=debora67O&show_icons=true&hide_border=true&title_color=f4a9c2&icon_color=f4a9c2&text_color=6b7280&bg_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=debora67&show_icons=true&hide_border=true&title_color=f4a9c2&icon_color=f4a9c2&text_color=6b7280&bg_color=ffffff" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debora67&layout=compact&hide_border=true&title_color=f4a9c2&text_color=6b7280&bg_color=ffffff" />
 </div>
 
