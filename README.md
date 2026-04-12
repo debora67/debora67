@@ -1,15 +1,15 @@
 <div align="center">
 
-# Débora Campos Sigaud 💗
+# Débora Sigaud 💗
 
 **Software Engineering student**  
-interested in **front-end, interface design, user experience, motion design and creative technology**
+focused on **UX/UI, motion graphics, product design and front-end development**
 
 <br>
 
-<img src="https://img.shields.io/badge/software%20engineering-f7b2c9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/front--end-f9c6d6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/design-f4a9c2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ux%2Fui-f7b2c9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/product%20design-f9c6d6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/front--end-f4a9c2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/creative%20tech-f8d7e4?style=for-the-badge" />
 
 </div>
@@ -22,14 +22,19 @@ interested in **front-end, interface design, user experience, motion design and 
 name: Débora Sigaud
 course: Software Engineering
 focus:
+  - ux/ui design
+  - product thinking
   - front-end development
-  - ux/ui
-  - creative projects
-  - technology + design
+  - creative technology
 ```
 
-I'm a Software Engineering student who enjoys combining logic, aesthetics and user experience in everything I build.  
-I’m especially interested in visual projects, well-designed interfaces and solutions that balance functionality with design.
+I'm a Software Engineering student focused in **UX/UI and product design**.  
+I’m interested in creating intuitive, visually appealing and user-centered digital experiences.
+
+Currently learning how to:
+- design interfaces that balance usability and aesthetics
+- think like a product designer, not just a developer
+- turn ideas into real and interactive experiences
 
 ---
 
@@ -55,21 +60,21 @@ I’m especially interested in visual projects, well-designed interfaces and sol
 
 ---
 
+## currently exploring
+
+- UX principles and usability
+- interface design and visual systems
+- product thinking and user journeys
+- building small projects to practice design decisions
+
+---
+
 ## spotify
 
 <div align="center">
 
 [![Spotify](https://img.shields.io/badge/open%20spotify-f4a9c2?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31qml3dexr27lfrdrvl3jrmyfe2i?si=296f3b2a89494e66)
 
-</div>
-
----
-
-## github stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=debora67&show_icons=true&hide_border=true&title_color=f4a9c2&icon_color=f4a9c2&text_color=6b7280&bg_color=ffffff" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=debora67&layout=compact&hide_border=true&title_color=f4a9c2&text_color=6b7280&bg_color=ffffff" />
 </div>
 
 ---
