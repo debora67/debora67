@@ -67,7 +67,7 @@ Currently learning how to:
 - UX principles and usability
 - interface design and visual systems
 - product thinking and user journeys
-- building small projects to practice design decisions
+- dart and flutter for mobile development
 
 ---
 
