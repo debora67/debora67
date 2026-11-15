@@ -45,7 +45,7 @@ Currently learning how to:
 <div align="center">
 
 <!-- DEV -->
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,figma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,flutter,figma,git,github,vscode" />
 
 <br><br>
 
